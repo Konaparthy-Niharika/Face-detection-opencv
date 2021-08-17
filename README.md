@@ -9,3 +9,4 @@ Algorithm:<br />
 5)obtaining face coordinates by passing algorithm(detectMultiscale)<br/>
 6)Drawing rectangle on the face co- ordinates<br />
 7)Display the output frame.
+![FDO1](https://user-images.githubusercontent.com/81929596/129728299-487af8e7-9324-4e57-9146-3632d47c0052.jpeg)
